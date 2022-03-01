@@ -1,4 +1,4 @@
-package backjoonalgol.programmers.array.knum;
+package programmers.array.knum;
 
 
 import java.util.Arrays;

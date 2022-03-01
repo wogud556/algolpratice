@@ -1,4 +1,4 @@
-package backjoonalgol.programmers.hash.marathon;
+package programmers.hash.marathon;
 
 import java.util.Arrays;
 import java.util.HashMap;

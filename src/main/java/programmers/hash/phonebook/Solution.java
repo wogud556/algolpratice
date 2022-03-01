@@ -1,4 +1,4 @@
-package backjoonalgol.programmers.hash.phonebook;
+package programmers.hash.phonebook;
 
 public class Solution {
     public boolean solution(String[] phone_book) {//내가 푼 문제
